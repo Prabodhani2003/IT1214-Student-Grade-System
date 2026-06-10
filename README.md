@@ -6,3 +6,13 @@ Here many Features are available
 2. Display All Students: View all registered students
 3. Search Student: Can find Specific student quickly by using Student ID
 4. Calculate Average: Automatically compute Average mmark of all students
+
+   How to Run the Program
+1. Install java in your computer
+2. Download this command
+3. open your command prompt
+4. Compile the java file using following command
+```bash
+   javac Student.java GradeManagementSystem.java
+5. java GradeManagementSystem
+
